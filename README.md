@@ -8,4 +8,4 @@ How it works:
 
 How to run:
   1. Run the command ./FD to run the code.
-  2. If making changes to any subroutine, run make.
+  2. If making changes to any subroutine, run make first.
